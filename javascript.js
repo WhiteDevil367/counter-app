@@ -8,7 +8,7 @@ let count =0;
 
 reset.onclick= function(){
     count = 0
-    counter.textContent= count;
+    counter.textContent= count; 
 }
 decrease.onclick= function(){
     count = count-1
